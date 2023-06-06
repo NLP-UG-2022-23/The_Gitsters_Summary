@@ -119,3 +119,69 @@ Consider the Welsh sentence:
 
 It is not immediately clear how the verb could combine with the object to form a phrase without also combining with the subject. It is clear that word order typology is important for understanding how sentences are parsed, and the topic could be elaborated on. 
 
+
+# Phonetics
+_based on:_ [Wikibooks article](https://en.wikibooks.org/wiki/Linguistics/Phonetics)
+![Language](https://www.eposts.co/wp-content/uploads/2018/06/language.jpg)
+
+## Introduction
+People often overlook the sounds they produce and the subtle distinctions they carry. Unfortunately, it is not surprising that language-learning resources rarely use technical terms to describe foreign sounds. Learners often receive unhelpful advice such as "pronounce it more crisply." By classifying language sounds, we can move closer to understanding *the essence of human communication.*
+
+The study of speech sound production and perception is a branch of linguistics known as phonetics. The examination of how languages treat these sounds is called phonology. Although these two fields overlap significantly, it is apparent that they differ in crucial ways.
+
+Phonetics is the systematic exploration of human capabilities in creating and perceiving sounds using the vocal organs, particularly for oral language production. 
+
+Phonetics is divided into *three branches*: 
+
+- **articulatory,**
+- **acoustic,** 
+- **auditory.**
+
+Phonology, on the other hand, is the formal investigation of sound systems (phonologies) in languages, particularly the universal properties found in all languages.
+
+**The International Phonetic Alphabet (IPA)** is a vital tool used in phonetics and phonology. It is a standardized representation of the sounds employed in human languages.  Familiarizing yourself with the IPA and being able to read and write it will enhance your understanding of spoken language.
+
+## Phonetic transcription and the IPA
+
+The division of speech in a language into distinct units, is frequently employed for convenience. These units are somewhat identifiable portions within the continuous flow of speech. However, it is important to acknowledge that this segmentation of speech is artificial, as both the articulation and acoustic signal of speech are continuous. Furthermore, any attempt to classify segments intentionally overrlooks certain details, as no two segments produced at different times are ever identical. Nevertheless, despite these limitations, segmentation remains an essential tool in nearly all areas of linguistics. The most basic segments according to phonetics are called phones:
+
+*"**Phones** may be defined as units in speech which can be distinguished acoustically or articulatorily."*
+
+In many contexts phones may be thought of as acoustic or articulatory targets which may or may not be fully reached in actual speech. 
+It is crucial to understand that segments, although they may be relevant in phonology, do not correspond to acctual components of speech produced in the vocal tract. Realized speech is a highly co-articulated process that involves movement and the spreading of sound aspects across entire syllables and words. While it is convenient to conceptualize speech as a sequence of segments for the purpose of discussing it in written form, actual phonetic analysis of speech challenges such a model. It is important to note, however, that if we aim to represent the dynamic and intricate nature of speech through static writing, segmental constructs serve as useful abstractions to convey our intended representation. 
+
+
+
+**The International Phonetic Alphabet (IPA)** is a system of phonetic notation which provides a standardized system of transcribing phonetic segments up to a certain degree of detail. It may be represented visually using charts. For now just be aware that text in square brackets [] is phonetic transcription in IPA. We will reproduce simplified charts of different subsets of the IPA here as they are explained.
+
+Variations of IPA such as the well established **Americanist phonetic notation** and a new, simplified international version called **SaypU** are available, but IPA is more comprehensive and so preferred for educational use, despite its complexity.
+
+To understand the IPA's taxonomy of phones, it is important to consider articulatory, acoustic, and auditory phonetics. 
+
+## Other types of phonetics
+### Acoustic phonetics
+
+Acoustic phonetics deals with the physical medium of speech - sound waves .Sound consists of waves that move through the air, alternating between areas of high and low pressure. A fundamental perspective on sound is to consider it as a wave function, where the pressure recorded by a device is plotted against time, reflecting the physical characteristics of sound. By examining the amplitude of the sound at a specific moment, we can determine its loudness.
+
+This method has its limitations. The human ear, in fact, analyzes sound by breaking it down into its individual frequencies using a mathematical algorithm called the Fourier transform.
+
+When a sound is produced in the oral tract, the column of air in the tract acts as a harmonic oscillator, simultaneously oscillating at various frequencies. Some frequencies are at higher amplitudes than others, which is referred to as resonance. In phonetics, these resonant frequencies of the vocal tract are known as **formants**. 
+The formants in a speech sound are numbered based on their frequency: 
+- the lowest frequency is represented as *f1*, 
+- followed by f2, 
+- f3, 
+- and so on. 
+
+There are two basic ways to analyze the formants of a speech signal:
+1) At any given time the sound contains a mixture of different frequencies of sound. The relative amplitudes (strengths) of different frequencies at a particular time may be shown as a frequency spectrum. The **frequency** is plotted against **aplitude**, and formants show up as peaks:
+
+![frequency_specctrum](https://i.stack.imgur.com/dMSUt.png)
+
+2) Another way to view formants is by using a **spectrogram**. This plots **time** against **frequency**, with amplitude represented by darkness. Formants show up as dark bands, and their movement may be tracked through time.
+
+![spectrogram](https://upload.wikimedia.org/wikipedia/commons/7/77/Spectrogram_-iua-.png)
+**Spectrogram** of American English vowels [i, u, ɑ] showing the formants f1 and f2
+
+Given the development of modern technology, acoustic analysis is now accessible to anyone with a computer and a microphone.
+
+
