@@ -58,7 +58,7 @@ In fact, no natural language falls into a single group, but all are combinations
 
 
 ## Phonological typology
-![Language](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-tU_NBLd5lTDEf57eulM7BDA0NsUKSJJ2g&usqp=CAU)
+![Language](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhighschool.latimes.com%2Fla-canada-high-school%2Fenglish-syntax-explained%2F&psig=AOvVaw09iCdVX3wNhkD8fQbvnwi8&ust=1686124456821000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiThZyVrv8CFQAAAAAdAAAAABAJ![image](https://github.com/NLP-UG-2022-23/The_Gitsters_Summary/assets/132016929/9b2876f1-c8ed-4e5c-8d0c-a2d11913b753) )
 
 Phonological typology is a subfield of linguistics that focuses on the study of the phonological systems found in languages around the world. Phonology refers to the study of the sounds and sound patterns of language. Phonological typology seeks to identify and classify the various ways in which sounds are organized in different languages.
 
@@ -92,9 +92,9 @@ In the remaining five percent of languages there is the object before the subjec
 English and Mandarin Chinese are exampless of languages with **SVO** order. 
 In Mandarin, the simple sentence:
 
-**(1a) Wǒ kàn shū 
+**(1a) Wǒ kàn shū**
 
-(1b) I read book** 
+**(1b) I read book** 
 
 shows the same order as English, starting with the subject and the direct object after the verb. 
 
