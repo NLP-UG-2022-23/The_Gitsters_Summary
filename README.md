@@ -1,6 +1,6 @@
 # The_Gitsters_Summary
 
-#Typology
+# Typology
 
 _based on:_ [Wikibooks article](<https://en.wikibooks.org/wiki/Linguistics/Typology>)
 
@@ -58,7 +58,7 @@ In fact, no natural language falls into a single group, but all are combinations
 
 
 ## Phonological typology
-![Language](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhighschool.latimes.com%2Fla-canada-high-school%2Fenglish-syntax-explained%2F&psig=AOvVaw09iCdVX3wNhkD8fQbvnwi8&ust=1686124456821000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiThZyVrv8CFQAAAAAdAAAAABAJ![image](https://github.com/NLP-UG-2022-23/The_Gitsters_Summary/assets/132016929/9b2876f1-c8ed-4e5c-8d0c-a2d11913b753) )
+![Language](https://t3.ftcdn.net/jpg/05/23/82/52/360_F_523825285_V1VpTchVXflx690Ympul4Qlwq404Ggpy.jpg)
 
 Phonological typology is a subfield of linguistics that focuses on the study of the phonological systems found in languages around the world. Phonology refers to the study of the sounds and sound patterns of language. Phonological typology seeks to identify and classify the various ways in which sounds are organized in different languages.
 
@@ -76,7 +76,7 @@ It is present in the vast majority of languages, with the exception of Hawaiian.
 Phonological typology is an important field for understanding the diversity of human language and contributes to our understanding of how sounds and sound patterns are organized in different languages. It provides valuable insights into the range of possibilities and constraints in human speech production and perception.
 
 ## Syntactic typology
-![syntax](https://www.lifewire.com/thmb/ZTweWTF-tYJuM4kwvif9E1TNmho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SyntaxError-a1b7896c16564a27bd463cccdeb87ca0.jpg )
+![syntax](https://linguaholic.com/linguablog/wp-content/uploads/2021/12/Defining-Syntax.jpeg)
 
 It distinguishes languages acccording to their word order in a sentence. The order of the subject, object, and verb is considered. This provides six potential orderings: 
 1) SOV,
