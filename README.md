@@ -184,4 +184,35 @@ There are two basic ways to analyze the formants of a speech signal:
 
 Given the development of modern technology, acoustic analysis is now accessible to anyone with a computer and a microphone.
 
+### Auditory phonetics
+
+![auditory](http://phiallfish.chez.com/und_essays/comm.gif)
+
+*source:* http://phiallfish.chez.com/und_essays/Phonetics.html
+
+Auditory phonetics is a branch of phonetics concerned with the hearing of speech sounds and with speech perception. 
+The relationship between *auditory sensations* and the *physical properties of sound* that generate them is not direct. While the physical properties, which are objectively measurable, exist, auditory sensations are subjective and can only be examined through the reports provided by listeners regarding their perceptions. 
+The following table displays certain connections between physical properties and auditory sensations:
+
+| Physical property | 	Auditory perception |
+|-------------------|-----------------------|
+| amplitude or intensity |	loudness |
+|fundamental frequency 	| pitch |
+|spectral structure |	sound quality|
+|duration 	|length |
+
+*source:* https://en.wikipedia.org/wiki/Auditory_phonetics
+
+Auditory phonetics is concerned with both **segmental** (chiefly vowels and consonants) and **prosodic** (such as stress, tone, rhythm and intonation) aspects of speech. 
+While it is possible to study the auditory perception of these phenomena in isolation, in connected speech, they are processed simultaneously with significant variability and complex interactions between them. These interactions have been observed in the context of continuous speech, where variables like vowels, typically distinguished by the frequencies of their formants, also exhibit inherent variations in fundamental frequency (and therefore pitch) based on *vowel height*. 
+For instance, **open vowels generally have lower fundamental frequencies** compared to close vowels in a given context. As a result, vowel recognition is likely to be influenced by the perception of prosody.
+
+### As a learner
+
+![languages](https://soarbehaviorwa.com/wp-content/uploads/2021/08/creativity-thegem-blog-default.jpg)
+
+**Within their first year**, children acquire the sounds specific to their native language, making it challenging for them to produce sounds that are foreign to their language later on. 
+Even familiar segments are produced without conscious consideration of their how they are produced. Consequently, it is strongly advised to practice pronouncing isolated segments and regurarly listen to examples of sounds that appear unfamiliar. Over time, you will find yourself becoming more attentive to the phonetic elements you encounter in your daily life, and you will be less puzzled by unfamiliar elements in other languages.
+
+
 
