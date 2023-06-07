@@ -460,6 +460,8 @@ One of such laws, which was very important for both comparative linguistics and 
 
 ![Jakob Grimm](https://upload.wikimedia.org/wikipedia/commons/9/9a/JacobGrimm.jpg)
 
+Jakob Grimm
+
 Another important branch of historical linguistics was etymology. It is a science trying to explain the origin of words. It is also very closely related to the latter two. It has however a facet not explored by them, the meaning. When words undergo sound changes, they sometimes go through semantic shifts as well. These can be described by the following processes: 
 - narrowing, 
 - widening, 
@@ -473,6 +475,8 @@ It also examines how exactly words enter into the lexicon, some of the recognize
 The neogrammarians’ and generally historical linguistics’ place in the spotlight was not to be. Ferdinand de Saussere, who studied in Leipzig with many neogrammarians and whose most famous article during his life was about comparative linguistics (see *laryngeal theory*), would soon end its reign. A post-mortem publication of notes from his lectures *Course in General Linguistics* would posit a distinction between synchronic and diachronic linguistics and signified the birth of a new leading school of thought, structuralism (Although a similar distinction was also proposed earlier by a pole Jan Baudouin de Courtenay). **Synchronic linguistics** would go on to become the primary branch, while diachronic linguistics would become an important but still secondary branch.
 
 ![Course in General Linguistics](https://upload.wikimedia.org/wikipedia/en/b/b9/Cours_de_linguistique_g%C3%A9n%C3%A9rale.jpg)
+
+Course in General Linguistics
 
 The branch, although smaller, would stay quite prolific, creating important and interesting research. Nowadays the branch is moving more and more in the direction of syntax with research on **grammaticalization**. 
 
