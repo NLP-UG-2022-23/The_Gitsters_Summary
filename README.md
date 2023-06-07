@@ -520,4 +520,5 @@ When it comes to the techniques, these are the most important:
 - **Violation-based** – introduces a violation in an otherwise grammatical phrase or word and sees, what exactly the brain does with it.
 - **Priming** – testing whether the words are connected to each other in the brain through reaction time.
 - **Transcranial magnetic stimulation** – outputting a powerful magnetic field in order to disrupt our own magnetic field and seeing how it impacts a person or an animal.
+
 During such experiments there are also a variety of tasks that the subjects perform to see how their brain reacts during.
