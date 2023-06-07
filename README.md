@@ -477,3 +477,43 @@ The neogrammarians’ and generally historical linguistics’ place in the spotl
 The branch, although smaller, would stay quite prolific, creating important and interesting research. Nowadays the branch is moving more and more in the direction of syntax with research on **grammaticalization**. 
 
 Another important development was presented by sociolinguistics. The dialects and varieties were always important in historical research, but the sociolinguistic perspective would add a more nuanced view of society and its influence on language change.
+
+
+# Neurolinguistics
+_based on:_ [Wikibooks article](https://en.wikibooks.org/wiki/Linguistics/Neurolinguistics)
+[Wikipedia page](https://en.wikipedia.org/wiki/Neurolinguistics)
+
+## Overview
+Neurolinguistics takes its roots in the 19th century. It studies the connections between the brain and language. The basis of the branch are the few areas in the brain broadly responsible for language and speech: **Broca’s area**, **Wernicke’s area**, **Arcuate fasciculus** and **the motor cortex**. It also considers specific brain responses like **N400** or **P600**.
+
+![The brain](https://upload.wikimedia.org/wikipedia/commons/2/23/Brain_Surface_Gyri.SVG)
+
+Brain with the Broca's area, Wernicke's area, Arcuate fasciculus and the motor cortex higlighted
+
+### Approaches
+There are also a few general theories pertaining to what exactly goes on in these areas. 
+- **Localism** states that different areas have different functions. 
+- **Associationism** which states that the connections between the areas is what matters. 
+- **Dynamic localisation of functions**, which states that the functions are localized in the areas, but the connections are also crucial. 
+- **Hierarchical approach** which sees the functions split evolutionally, the more basic ones in the more basic parts of the brain, the more advanced ones in the more advanced parts of the brain. 
+- **The holistic approach** where the brain is treated as one big tool. 
+
+### Aphasiology
+A very important area of research are the different ailments, which can influence one’s command of languages. There are two types of those, the *acquired* and *developmental language disorders*, the former starting from birth, the latter developing during the person’s life. One of the disorders, which is of the most interest for neurolinguistics is **Aphasia**, brain damage in a particular area, which affects speech production and understanding. Depending on the area it affects the abilities in different ways.
+
+## Experiments
+As neurolinguistics is a very interdisciplinary science, it very often is tasked with checking the theoretical assumptions of other sciences, like psycholinguistics. Thus the experiment design is crucial. There are many different methods and techniques.
+
+### Methods
+There are two main methods of detecting activity in the brain. 
+- **Hemodynamic**, checking, where exactly the blood collects in the brain during the tests. These are usually performed through a *PET* or an *fMRI* scan. 
+- **Electrophysiological**; neurons in the brain create a current which can be measured through *EEG* (sensors attached to the head measure the current) or *MEG* (where the magnetic fields produced by the current are measured). 
+
+### Techniques
+When it comes to the techniques, these are the most important: 
+- **Subtraction** – concerns the fMRI method, tries to compare the heatmaps of similar linguistic and non-linguistic actions. 
+- **Mismatch paradigm** – concerns the electrophysiological method, introduces a deviation in a string of exact same stimuli. Mainly used for study of phonetics.
+- **Violation-based** – introduces a violation in an otherwise grammatical phrase or word and sees, what exactly the brain does with it.
+- **Priming** – testing whether the words are connected to each other in the brain through reaction time.
+- **Transcranial magnetic stimulation** – outputting a powerful magnetic field in order to disrupt our own magnetic field and seeing how it impacts a person or an animal.
+During such experiments there are also a variety of tasks that the subjects perform to see how their brain reacts during.
