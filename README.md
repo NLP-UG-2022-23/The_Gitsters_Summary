@@ -158,6 +158,73 @@ Variations of IPA such as the well established **Americanist phonetic notation**
 
 To understand the IPA's taxonomy of phones, it is important to consider articulatory, acoustic, and auditory phonetics. 
 
+## Articulatory phonetics
+<!-- Tomasz Wąs -->
+<!-- Streszczenie wstępu sekcji -->
+Articulatory phonetics studies how the vocal apparatus produces language sounds. There are two types of sounds: consonants and vowels. The distinguishing property of consonants is constriction of (or closed) the vocal tract. The characteristic property of vowels is limited constriction - the vocal tract is open. Vowels carry much of the pitch of speech; consonants, on the other hand, do not carry the prosodic pitch (especially if devoiced and not nasalized); they do not have the potential for the durations that vowels have. 'Semi-vowels' or 'semi-consonants', such as [w], seem more like a vowel (vocal tract more open); phonologically speaking, they behave like consonants - they appear before a vowel at the beginning of a syllable. 
+### Consonants
+![Places of articulation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Places_of_articulation.svg/192px-Places_of_articulation.svg.png)
+
+_A diagram of the vocal tract showing the places of articulation_
+
+One can distinguish consonants by _place of articulation (POA)_ and _manner of articulation (MOA)_. _POA_ is "where" the consonant is produced, while _MOA_ is "how" the consonant is produced.
+Shown below are different _POA_: 
+* **Bilabial** - lips held together (the [p] sound of the English _**p**in_, the [b] sound in _**b**in_).
+* **Labiodental** - holding the upper teeth to the lower lip (the [f] sound of English _**f**in_).
+* **Dental** - the tongue making contact with the upper teeth (area 3 in the diagram) (the [θ] sound in the word _**th**in_).
+* **Alveolar** - the tongue touching the alveolar ridge (area 4 in the diagram) (the [t] in _**t**in_ and [s] in _**s**in_).
+* **Postalveolar** - the tongue touching area 5 in the diagram (like the [ʃ] of _**sh**in_).
+* **Palatal** - articulated at the hard palate (area 7 in the diagram) (the [j] in the word _**y**oung_).
+* **Velar** - articulated at the soft palate (area 8 in the diagram) (the [k] in the word _**k**in_).
+* **Glottal** - articulated at the glottis (area 11 in the diagram) (the [h] may be regarded as glottal).
+* **Doubly articulated** have two _POA_ (the labio-velar [w] of _**w**it_).
+
+Types of manner of articulation:
+* __Voicing__ is the rapid vibration caused by the vocal folds.
+* __Nasality__ - some sounds are produced with airflow through the nasal cavity. In most languages nasals are voiced.
+* __Obstruency__ - stops or plosives are consonants involving a total obstruction of airflow. Fricatives are consonants with a steady stricture causing friction. Affricates begin with a stop-like closure followed by frication.
+* __Sonorancy__ - non-obstruents are classed as sonorants (for example nasals). Approximants are sounds in which articulatory organs produce a narrowing of the vocal tract, but leave enough space for air to flow.
+
+Below is the simplified IPA table of the consonants of English. MOA is organized in rows and POA columns. Voicing pairs occur in the same cells; sounds in bold are voiced while the rest are voiceless. 
+
+__Simplified IPA consonant chart (for English)__
+|  | 	Bilabial<br>(or Labio-velar) | Labiodental | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| **Plosive** |	p __b__ |  |  | t __d__ |  | | k __g__ |
+|**Fricative** 	|  | f __v__ | θ __ð__ | s __z__ | ʃ __ʒ__ | | | h |
+|**Affricate** |  |  |  |  | tʃ __dʒ__ |
+|**Nasal** 	| __m__ |  |  | __n__ |  | | __ŋ__|
+|**Approximant** 	| w |  |  | ɹ l |  | j |
+### Vowels
+![Tongue positions](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/240px-Cardinal_vowel_tongue_position-front.svg.png)
+
+_Tongue positions of cardinal front vowels with highest point indicated. The position of the highest point is used to determine vowel height and backness_
+
+We can divide vowels into sets of features based on three variables:
+* __Height__ is how close the tongue is to the roof of mouth.
+* __Backness__  is where the tounge is located in mouth horizontally.
+* __Rounding__ is the shape of the lips during articulation.
+
+Back vowels tend to be rounded, front vowels unrounded. However, this is not universal - in the French word bœuf is what would result from the vowel of the English word bet pronounced with rounding. Some East and Southeast Asian languages possess unrounded back vowels.
+
+The cardinal vowels are a set of idealized vowels used by phoneticians as a base of reference.
+
+The vowel daigram roughly represents the diagram of the mouth, with the left being the front, the right the back, and the vertical direction representing height in the mouth. Each vowel is positioned based on height and backness. Rounding isn't indicated by location; however, when pairs of vowels share the same height and backness, the left is always unrounded, and the right rounded. The following is a simplified version of the IPA vowel chart: 
+
+![Vowel chart](https://www.translationdirectory.com/images_articles/wikipedia/vowel_chart.gif)
+
+https://www.translationdirectory.com/articles/article1857.php
+
+The following are rough examples (from General American English):
+
+| **[æ]** |   c*a*t   | __[ɑ]__ | c*o*t    | __[ɐ]__ | c*u*t    |
+|:-------:|:---------:|:-------:|----------|:-------:|----------|
+| **[ɛ]** |   k*e*lp  | __[ə]__ | carr*o*t | __[ɔ]__ | c*au*ght |
+| **[e]** |   c*a*ke  | __[o]__ | c*oa*t   | __[ɪ]__ | k*i*n    |
+| **[ʊ]** | c*u*shion | __[i]__ | k*ee*p   | __[u]__ | c*oo*l   |
+
+<!-- Tomasz Wąs koniec -->
+
 ## Other types of phonetics
 ### Acoustic phonetics
 
