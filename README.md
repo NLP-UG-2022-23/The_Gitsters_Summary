@@ -158,6 +158,73 @@ Variations of IPA such as the well established **Americanist phonetic notation**
 
 To understand the IPA's taxonomy of phones, it is important to consider articulatory, acoustic, and auditory phonetics. 
 
+## Articulatory phonetics
+<!-- Tomasz Wąs -->
+<!-- Streszczenie wstępu sekcji -->
+Articulatory phonetics studies how the vocal apparatus produces language sounds. There are two types of sounds: consonants and vowels. The distinguishing property of consonants is constriction of (or closed) the vocal tract. The characteristic property of vowels is limited constriction - the vocal tract is open. Vowels carry much of the pitch of speech; consonants, on the other hand, do not carry the prosodic pitch (especially if devoiced and not nasalized); they do not have the potential for the durations that vowels have. 'Semi-vowels' or 'semi-consonants', such as [w], seem more like a vowel (vocal tract more open); phonologically speaking, they behave like consonants - they appear before a vowel at the beginning of a syllable. 
+### Consonants
+![Places of articulation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Places_of_articulation.svg/192px-Places_of_articulation.svg.png)
+
+_A diagram of the vocal tract showing the places of articulation_
+
+One can distinguish consonants by _place of articulation (POA)_ and _manner of articulation (MOA)_. _POA_ is "where" the consonant is produced, while _MOA_ is "how" the consonant is produced.
+Shown below are different _POA_: 
+* **Bilabial** - lips held together (the [p] sound of the English _**p**in_, the [b] sound in _**b**in_).
+* **Labiodental** - holding the upper teeth to the lower lip (the [f] sound of English _**f**in_).
+* **Dental** - the tongue making contact with the upper teeth (area 3 in the diagram) (the [θ] sound in the word _**th**in_).
+* **Alveolar** - the tongue touching the alveolar ridge (area 4 in the diagram) (the [t] in _**t**in_ and [s] in _**s**in_).
+* **Postalveolar** - the tongue touching area 5 in the diagram (like the [ʃ] of _**sh**in_).
+* **Palatal** - articulated at the hard palate (area 7 in the diagram) (the [j] in the word _**y**oung_).
+* **Velar** - articulated at the soft palate (area 8 in the diagram) (the [k] in the word _**k**in_).
+* **Glottal** - articulated at the glottis (area 11 in the diagram) (the [h] may be regarded as glottal).
+* **Doubly articulated** have two _POA_ (the labio-velar [w] of _**w**it_).
+
+Types of manner of articulation:
+* __Voicing__ is the rapid vibration caused by the vocal folds.
+* __Nasality__ - some sounds are produced with airflow through the nasal cavity. In most languages nasals are voiced.
+* __Obstruency__ - stops or plosives are consonants involving a total obstruction of airflow. Fricatives are consonants with a steady stricture causing friction. Affricates begin with a stop-like closure followed by frication.
+* __Sonorancy__ - non-obstruents are classed as sonorants (for example nasals). Approximants are sounds in which articulatory organs produce a narrowing of the vocal tract, but leave enough space for air to flow.
+
+Below is the simplified IPA table of the consonants of English. MOA is organized in rows and POA columns. Voicing pairs occur in the same cells; sounds in bold are voiced while the rest are voiceless. 
+
+__Simplified IPA consonant chart (for English)__
+|  | 	Bilabial<br>(or Labio-velar) | Labiodental | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| **Plosive** |	p __b__ |  |  | t __d__ |  | | k __g__ |
+|**Fricative** 	|  | f __v__ | θ __ð__ | s __z__ | ʃ __ʒ__ | | | h |
+|**Affricate** |  |  |  |  | tʃ __dʒ__ |
+|**Nasal** 	| __m__ |  |  | __n__ |  | | __ŋ__|
+|**Approximant** 	| w |  |  | ɹ l |  | j |
+### Vowels
+![Tongue positions](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/240px-Cardinal_vowel_tongue_position-front.svg.png)
+
+_Tongue positions of cardinal front vowels with highest point indicated. The position of the highest point is used to determine vowel height and backness_
+
+We can divide vowels into sets of features based on three variables:
+* __Height__ is how close the tongue is to the roof of mouth.
+* __Backness__  is where the tounge is located in mouth horizontally.
+* __Rounding__ is the shape of the lips during articulation.
+
+Back vowels tend to be rounded, front vowels unrounded. However, this is not universal - in the French word bœuf is what would result from the vowel of the English word bet pronounced with rounding. Some East and Southeast Asian languages possess unrounded back vowels.
+
+The cardinal vowels are a set of idealized vowels used by phoneticians as a base of reference.
+
+The vowel daigram roughly represents the diagram of the mouth, with the left being the front, the right the back, and the vertical direction representing height in the mouth. Each vowel is positioned based on height and backness. Rounding isn't indicated by location; however, when pairs of vowels share the same height and backness, the left is always unrounded, and the right rounded. The following is a simplified version of the IPA vowel chart: 
+
+![Vowel chart](https://www.translationdirectory.com/images_articles/wikipedia/vowel_chart.gif)
+
+https://www.translationdirectory.com/articles/article1857.php
+
+The following are rough examples (from General American English):
+
+| **[æ]** |   c*a*t   | __[ɑ]__ | c*o*t    | __[ɐ]__ | c*u*t    |
+|:-------:|:---------:|:-------:|----------|:-------:|----------|
+| **[ɛ]** |   k*e*lp  | __[ə]__ | carr*o*t | __[ɔ]__ | c*au*ght |
+| **[e]** |   c*a*ke  | __[o]__ | c*oa*t   | __[ɪ]__ | k*i*n    |
+| **[ʊ]** | c*u*shion | __[i]__ | k*ee*p   | __[u]__ | c*oo*l   |
+
+<!-- Tomasz Wąs koniec -->
+
 ## Other types of phonetics
 ### Acoustic phonetics
 
@@ -216,3 +283,309 @@ Even familiar segments are produced without conscious consideration of their how
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Historical Linguistics
+_based on:_ [Wikibooks article](https://en.wikibooks.org/wiki/Linguistics/Historical_Linguistics)
+[Wikipedia page](https://en.wikipedia.org/wiki/Historical_linguistics)
+
+Historical linguistics is the diachronic study of language or other words how language develops through ages into its current form. The discipline itself originates from early **philology** and observations regarding the relatedness of the Romance languages. From these humble beginnings, in the 18th century the first real method of historical linguistics was developed, comparative linguistics. This method was built upon the relations between languages. It wanted to reconstruct the proto-languages and rebuild the families they belonged to. Thus, the proto-indo-european was reconstructed. The reconstruction would change through the years, the methodology would however stay the same. There were several principles this science followed, some of the most important were the **majority principle** and the **most natural development principle**. The former stating that if in a group of related words a feature is prevalent, then this feature was probably in the older language. The latter pointing out that there are some general changes, which are quite common and usually the most probable ones.
+
+The reconstructions usually rely very heavily on sound changes. These can materialize in a few different ways, as: **metathesis**, **epenthesis**, **prosthesis**, **assimilation**, **lenition**. There are also two types of change, one coming from the language itself called *internal change*, one coming from other languages called *external change*. At the very beginning, the sound changes were crucial for the discipline concluding in the creation of the **Neogrammarian school**, which believed that laws of these sound changes present absolute scientific laws, which have no exceptions. They wanted to see linguistics as a natural science instead of a humanistic science. 
+
+One of such laws, which was very important for both comparative linguistics and neogrammarians, was the **Grimm's law**. This law describes a sound shift that illustrates how proto-indo-european turned into proto-germanic. In the most basic terms it can be described thusly: voiceless stops become voiceless fricatives, voiced stops become voiceless stops, voiced aspirated stops become voiced stops or fricatives. Grimm himself was not a neogrammarian, his law however illustrates a very regular sound change, which the neogrammarians would be looking for everywhere. 
+
+![Jakob Grimm](https://upload.wikimedia.org/wikipedia/commons/9/9a/JacobGrimm.jpg)
+
+Jakob Grimm
+
+Another important branch of historical linguistics was etymology. It is a science trying to explain the origin of words. It is also very closely related to the latter two. It has however a facet not explored by them, the meaning. When words undergo sound changes, they sometimes go through semantic shifts as well. These can be described by the following processes: 
+- narrowing, 
+- widening, 
+- metonymy, 
+- synecdoche, 
+- metaphor, 
+- hyperbole, 
+- meiosis. 
+
+It also examines how exactly words enter into the lexicon, some of the recognized processes are **loaning**, **derivation** or the combining of the two, **coinage**, etc.
+The neogrammarians’ and generally historical linguistics’ place in the spotlight was not to be. Ferdinand de Saussere, who studied in Leipzig with many neogrammarians and whose most famous article during his life was about comparative linguistics (see *laryngeal theory*), would soon end its reign. A post-mortem publication of notes from his lectures *Course in General Linguistics* would posit a distinction between synchronic and diachronic linguistics and signified the birth of a new leading school of thought, structuralism (Although a similar distinction was also proposed earlier by a pole Jan Baudouin de Courtenay). **Synchronic linguistics** would go on to become the primary branch, while diachronic linguistics would become an important but still secondary branch.
+
+![Course in General Linguistics](https://upload.wikimedia.org/wikipedia/en/b/b9/Cours_de_linguistique_g%C3%A9n%C3%A9rale.jpg)
+
+Course in General Linguistics
+
+The branch, although smaller, would stay quite prolific, creating important and interesting research. Nowadays the branch is moving more and more in the direction of syntax with research on **grammaticalization**. 
+
+Another important development was presented by sociolinguistics. The dialects and varieties were always important in historical research, but the sociolinguistic perspective would add a more nuanced view of society and its influence on language change.
+
+
+# Neurolinguistics
+_based on:_ [Wikibooks article](https://en.wikibooks.org/wiki/Linguistics/Neurolinguistics)
+[Wikipedia page](https://en.wikipedia.org/wiki/Neurolinguistics)
+
+## Overview
+Neurolinguistics takes its roots in the 19th century. It studies the connections between the brain and language. The basis of the branch are the few areas in the brain broadly responsible for language and speech: **Broca’s area**, **Wernicke’s area**, **Arcuate fasciculus** and **the motor cortex**. It also considers specific brain responses like **N400** or **P600**.
+
+![The brain](https://upload.wikimedia.org/wikipedia/commons/2/23/Brain_Surface_Gyri.SVG)
+
+Brain with the Broca's area, Wernicke's area, Arcuate fasciculus and the motor cortex higlighted
+
+### Approaches
+There are also a few general theories pertaining to what exactly goes on in these areas. 
+- **Localism** states that different areas have different functions. 
+- **Associationism** which states that the connections between the areas is what matters. 
+- **Dynamic localisation of functions**, which states that the functions are localized in the areas, but the connections are also crucial. 
+- **Hierarchical approach** which sees the functions split evolutionally, the more basic ones in the more basic parts of the brain, the more advanced ones in the more advanced parts of the brain. 
+- **The holistic approach** where the brain is treated as one big tool. 
+
+### Aphasiology
+A very important area of research are the different ailments, which can influence one’s command of languages. There are two types of those, the *acquired* and *developmental language disorders*, the former starting from birth, the latter developing during the person’s life. One of the disorders, which is of the most interest for neurolinguistics is **Aphasia**, brain damage in a particular area, which affects speech production and understanding. Depending on the area it affects the abilities in different ways.
+
+## Experiments
+As neurolinguistics is a very interdisciplinary science, it very often is tasked with checking the theoretical assumptions of other sciences, like psycholinguistics. Thus the experiment design is crucial. There are many different methods and techniques.
+
+### Methods
+There are two main methods of detecting activity in the brain. 
+- **Hemodynamic**, checking, where exactly the blood collects in the brain during the tests. These are usually performed through a *PET* or an *fMRI* scan. 
+- **Electrophysiological**; neurons in the brain create a current which can be measured through *EEG* (sensors attached to the head measure the current) or *MEG* (where the magnetic fields produced by the current are measured). 
+
+### Techniques
+When it comes to the techniques, these are the most important: 
+- **Subtraction** – concerns the fMRI method, tries to compare the heatmaps of similar linguistic and non-linguistic actions. 
+- **Mismatch paradigm** – concerns the electrophysiological method, introduces a deviation in a string of exact same stimuli. Mainly used for study of phonetics.
+- **Violation-based** – introduces a violation in an otherwise grammatical phrase or word and sees, what exactly the brain does with it.
+- **Priming** – testing whether the words are connected to each other in the brain through reaction time.
+- **Transcranial magnetic stimulation** – outputting a powerful magnetic field in order to disrupt our own magnetic field and seeing how it impacts a person or an animal.
+
+During such experiments there are also a variety of tasks that the subjects perform to see how their brain reacts during.
