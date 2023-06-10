@@ -161,7 +161,7 @@ To understand the IPA's taxonomy of phones, it is important to consider articula
 ## Articulatory phonetics
 <!-- Tomasz Wąs -->
 <!-- Streszczenie wstępu sekcji -->
-Articulatory phonetics studies how the vocal apparatus produces language sounds. There are two types of sounds: consonants and vowels. The distinguishing property of consonants is constriction of (or closed) the vocal tract. The characteristic property of vowels is limited constriction - the vocal tract is open. Vowels carry much of the pitch of speech; consonants, on the other hand, do not carry the prosodic pitch (especially if devoiced and not nasalized); they do not have the potential for the durations that vowels have. 'Semi-vowels' or 'semi-consonants', such as [w], seem more like a vowel (vocal tract more open); phonologically speaking, they behave like consonants - they appear before a vowel at the beginning of a syllable. 
+Articulatory phonetics studies how the vocal apparatus produces language sounds. There are two types of sounds: consonants and vowels. The distinguishing property of consonants is constriction of (or closing) the vocal tract. The characteristic property of vowels is limited constriction - the vocal tract is open. Vowels carry much of the pitch of speech; consonants, on the other hand, do not carry the prosodic pitch (especially if devoiced and not nasalized); they do not have the potential for the durations that vowels have. 'Semi-vowels' or 'semi-consonants', such as [w], seem more like a vowel (vocal tract more open); phonologically speaking, they behave like consonants - they appear before a vowel at the beginning of a syllable. 
 ### Consonants
 ![Places of articulation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Places_of_articulation.svg/192px-Places_of_articulation.svg.png)
 
@@ -205,11 +205,11 @@ We can divide vowels into sets of features based on three variables:
 * __Backness__  is where the tounge is located in mouth horizontally.
 * __Rounding__ is the shape of the lips during articulation.
 
-Back vowels tend to be rounded, front vowels unrounded. However, this is not universal - in the French word bœuf is what would result from the vowel of the English word bet pronounced with rounding. Some East and Southeast Asian languages possess unrounded back vowels.
+Back vowels tend to be rounded, front vowels unrounded. However, this is not universal - the French word bœuf is what would result from the vowel of the English word bet pronounced with rounding. Some East and Southeast Asian languages possess unrounded back vowels.
 
 The cardinal vowels are a set of idealized vowels used by phoneticians as a base of reference.
 
-The vowel daigram roughly represents the diagram of the mouth, with the left being the front, the right the back, and the vertical direction representing height in the mouth. Each vowel is positioned based on height and backness. Rounding isn't indicated by location; however, when pairs of vowels share the same height and backness, the left is always unrounded, and the right rounded. The following is a simplified version of the IPA vowel chart: 
+The vowel diagram roughly represents the diagram of the mouth, with the left being the front, the right the back, and the vertical direction representing height in the mouth. Each vowel is positioned based on height and backness. Rounding isn't indicated by location; however, when pairs of vowels share the same height and backness, the left is always unrounded, and the right rounded. The following is a simplified version of the IPA vowel chart: 
 
 ![Vowel chart](https://www.translationdirectory.com/images_articles/wikipedia/vowel_chart.gif)
 
@@ -280,240 +280,6 @@ For instance, **open vowels generally have lower fundamental frequencies** compa
 
 **Within their first year**, children acquire the sounds specific to their native language, making it challenging for them to produce sounds that are foreign to their language later on. 
 Even familiar segments are produced without conscious consideration of their how they are produced. Consequently, it is strongly advised to practice pronouncing isolated segments and regurarly listen to examples of sounds that appear unfamiliar. Over time, you will find yourself becoming more attentive to the phonetic elements you encounter in your daily life, and you will be less puzzled by unfamiliar elements in other languages.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Historical Linguistics
 _based on:_ [Wikibooks article](https://en.wikibooks.org/wiki/Linguistics/Historical_Linguistics)
@@ -589,3 +355,78 @@ When it comes to the techniques, these are the most important:
 - **Transcranial magnetic stimulation** – outputting a powerful magnetic field in order to disrupt our own magnetic field and seeing how it impacts a person or an animal.
 
 During such experiments there are also a variety of tasks that the subjects perform to see how their brain reacts during.
+
+# Sociolinguistics
+**Sociolinguistics** is the descriptive study of the effect of aspects of society (cultural norms, expectations, context) on the way language is used, and the effects of language on society. Sociolinguistics studies the correlation between the **social variable** (ethnicity, religion, status, gender, level of education, class) and the **linguistic variable**. Usage of a language varies from place to place and among social classes (sociolects). Central to the discussion of sociolinguistics is **style** - a set of linguistic variables that correspond to a certain value of a social variable. 
+
+## Speech Communities
+
+Speech communities can be members of a profession with a specialized jargon, distinct social groups or groups like families.
+
+A **social network** is a way of describing a particular speech community in terms of relations between individual members. A social network may apply to the macro level (a country or a city) but also to the inter-personal level (neighborhoods or a family). Modern examples of social networks can be formed by the Internet, organizations etc.
+
+A network could be **loose** or **tight** depending on how cloesly members interact with each other. A **multiplex** community is one in which members have multiple relationships with each other. The looseness or tightness of a social network may affect speech patterns adopted by a speaker.
+
+Closely related to the concept of speech communities is **register** - a style of language used in a specific context (a field of study, a profession). Different speech speech communities often develop specific vocabulary for their own use:
+* **Jargon** - is a type of specialised language used inside an established social group.
+* **Slang** - is a type of colloquial language used outside established social groups.
+    * **Taboo term** (i.e. profanity) - is a type of language usually considered impolite.
+        
+## Prestige
+
+The concept of **prestige** is crucial for sociolinguistics. Speech habits are assigned a positive or a negative value which is then applied to the speaker. This can operate on two levels:
+* It can be realised on the level of the individual phoneme. The post-vocalic /r/ is used among the upper class and avoided by the lower class in the USA, but the situation is reversed in England.
+* It can be realised on the macro scale of language choice, as realised in the various **diglossias**.
+
+We distinguish two types of prestige:
+* **Overt prestige** - assigned to language features associated with the upper class.
+* **Covert prestige** - assigned to language features associated with the lower class.
+
+**Class aspirations** affect the choice of style. Lower-class people who wish to move upwards in the social ladder will likely adjust their speech habits to resemble speech with high overt prestige. Sometimes we can observe hypercorrection.
+
+### Bernstein's Code Theory
+#### Social language codes
+
+Basil Bernstein created a social code system which he used to classify the speech patterns for different social classes. Two codes he created are:
+* **Restricted code**
+* **Elaborated code**
+
+#### Restricted code
+
+Restricted code is a speech pattern used by the working-class. This code allows strong bonds between group members, who behave based on distinctions such as'male', 'female', 'older', and 'younger'. This social group often uses language without explicit meaning, as their shared knowledge and common understanding unite them. The restricted code emphasizes 'we' as a social group, fostering greater solidarity than 'I'. This type of communication is particularly important for children starting school, where the standard variety of language is used.
+
+Children with restricted code struggle more at school than those who speak an "elaborated-code" (the written form of a language can be very different from the everyday form). Working class's type of communication reminds Paivio's dual code theory, which suggests equal weight to verbal and non-verbal processing. The use of context by working-class members may be a "non-verbal code," but this type of communication may not be understood by other children or teachers. It is suggested that working-class children should receive pre-school training in their early childhood to acquire the valid speaking style at school.
+#### Elaborated code
+Basil Bernstein studied the 'elaborated code', used by middle and upper classes for education and career advancement. The bond between these social groups is not well defined, and social identity is based on individual disposition and temperament. Tasks are not clearly divided by sex or age, and members negotiate roles rather than having them pre-made. Elaborated code requires individual intentions and viewpoints to be made explicit as the 'I' has a greater emphasis with this social group than the working class.
+
+### Deviation from standard language varieties
+The existence of differences in language between social classes is presented below: 
+| Bristolian Dialect<br>(lower class) | Standard English<br>(higher class) |
+|----------------------------------|---------------------------------|
+| I ain't done nothing             | I haven't done anything         |
+| I done it yesterday              | I did it yesterday              |
+| It weren't me that done it       | I didn't do it                  |
+
+The differences in grammar between the two examples of speech is referred to as differences between sociolects.
+
+### Covert prestige
+Non-standard language is commonly perceived as low-prestige language. However, standard language may be considered undesirable in many contexts in certain groups. Working class dialect is a powerful in-group marker; the use of non-standard varieties can express pride and group/class solidarity. 
+
+![Dialect variation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sociolinguistics_dialect_variation.svg/640px-Sociolinguistics_dialect_variation.svg.png)
+
+_A diagram showing variation in the English language by region (the bottom axis) and by social class (the side axis). The higher the social class, the less variation._
+
+## Style shifting
+
+### Speech Accommodation
+### Internal vs. external language
+In Chomskian linguistics, there is I-language (internal language) and E-language (external language). Internal language applies to the study of syntax and semantics in language on the abstract level; as mentally represented knowledge in a native speaker. External language applies to language in social contexts, i.e. behavioral habits shared by a community.
+
+## Sociolinguistic interview
+**Sociolinguistic interviews** are an integral part of collecting data for sociolinguistic studies. Listed below are are five types of collecting data:
+* **Minimal pairs** (MP): The most formal style would be elicited by having the subject read a list of minimal pairs.
+* **Word list** (WL): Having the subject read a WL will elicit a formal register (not as formal as MP).
+* **Reading passage** (RP).
+* **Interview style** (IS) - eliciting a more casual speech from the subject. The interviewer can converse with the subject and draw out more casual sort of speech.
+* **Casual style** (CS): Difficult to elicit because of the Observer's Paradox. The subject will adjust his or her speech because of the presence of the linguist, and will switch to a more formal style. CS is used in a completely unmonitored environment where the subject feels most comfortable and will use their natural vernacular without overtly thinking about it.
+<!-- Tomasz Wąs koniec -->
